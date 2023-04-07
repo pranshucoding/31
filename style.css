@@ -1,0 +1,26 @@
+#body{
+    background-size: cover;
+}
+
+#h31{
+    width: 100%;
+    top: 100%;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    color:#0270f6 ;
+}
+
+#h33{
+    position: fixed;
+    bottom: 0;
+    width:100% ;
+    
+}
+
+#b1{
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    color:darkgreen ;
+}
